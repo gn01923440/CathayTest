@@ -1,0 +1,5 @@
+CREATE TABLE Currency (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  code VARCHAR(255),
+  codeCname VARCHAR(255)
+);
